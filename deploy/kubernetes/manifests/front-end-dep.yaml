@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: front-end
-        image: quay.io/donovanmuller/front-end:master-3dcfed01
+        image: quay.io/donovanmuller/front-end:master-2de14696
         resources:
           limits:
             cpu: 300m
