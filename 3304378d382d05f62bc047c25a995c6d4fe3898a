@@ -1,0 +1,1 @@
+{"jobID":"6dc1aaee-014b-ec5a-3bf8-5391fbc44885","spec":{"type":"policy","cause":{"Message":"","User":"Donovan Muller \u003cdonovan.muller@gmail.com\u003e"},"spec":{"sock-shop:deployment/front-end":{"add":null,"remove":{"automated":"true"}}}},"result":null}
